@@ -10,11 +10,12 @@ The list below suggests a number of extensions and improvements that you could i
 
 # Instructions
 
-1. Fork [Apache Sling](https://github.com/apache/sling) project on Github.  
+1. Clone the [Apache Sling](https://sling.apache.org) project from its Github mirror at https://github.com/apache/sling
 2. Build the project with the Maven command line tool, following [build instructions](http://sling.apache.org/documentation/development/getting-and-building-sling.html)
 3. Start the Sling runnable jar
 4. Sling contains a sample called [Slingbucks](https://github.com/apache/sling/tree/trunk/samples/slingbucks), simple coffee-ordering app  
    Install the sample following the README instructions and start playing with it
+5. Code your extension/improvement and deliver it from your own GitHub repository or similar public location.
 
 # Potential workshop activities
 
