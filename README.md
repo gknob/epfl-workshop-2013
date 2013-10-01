@@ -19,6 +19,7 @@ The list below suggests a number of extensions and improvements that you could i
 4. Sling contains a sample called [Slingbucks](https://github.com/apache/sling/tree/trunk/samples/slingbucks), simple coffee-ordering app  
    Install the sample following the README instructions and start playing with it
 5. Code your extension/improvement and deliver it from your own GitHub repository or similar public location.
+6. Submit a pull request for this page so that we can add the URL of your work below under "participant's repositories".
 
 # Potential workshop activities
 
@@ -52,3 +53,7 @@ The application invalidates the voucher when it's used.
   Current application currently generates a long hexadecimal string, which no one can memorize.  
   This allows a minimal security of orders.  
   One idea could be to generate meaningful but hard-to-guess strings, like for instance PINKRABBIT13, FERRARIF40, etc.
+
+
+## Participant's repositories
+We'll list the GitHub or other URLs of the participant's work here.
