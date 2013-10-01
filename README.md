@@ -39,6 +39,8 @@ Using a [PhoneGap free plan](https://build.phonegap.com/) or any other suitable 
 
 Current UI is very basic, but it can be improved using any tool(s) of your choice.
 
+Feel free to create a fantastic user experience for this simple app, and blow our socks off...
+
 ## Add new features
 
 For instance:
