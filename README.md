@@ -50,10 +50,10 @@ For instance:
   Administrator generates vouchers, each with unique code, and customer can enter it when ordering.  
 The application invalidates the voucher when it's used.
 * **Generate human readable but hard-to-guess order IDs**  
-  Current application currently generates a long hexadecimal string, which no one can memorize.  
-  This allows a minimal security of orders.  
-  One idea could be to generate meaningful but hard-to-guess strings, like for instance PINKRABBIT13, FERRARIF40, etc.
-
+  The application currently generates a long hexadecimal string as a coffee order ID, which no one can memorize.  
+  The goal is to implement a simple security by obscurity, which is good enough in this case but can be made nicer using
+  more readable/speakable IDs.
+  Hard-to-guess readable IDs can be generate by combining common words in unusual ways, like for instance PINKRABBIT13, FERRARIF40, etc.
 
 ## Participant's repositories
 We'll list the GitHub or other URLs of the participant's work here.
