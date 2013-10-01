@@ -1,6 +1,7 @@
 # Introduction
 
-This is the instructions page for our 2013 Forum EPFL Workshop, "RESTful applications with Apache Sling and Adobe CRX".
+This is the instructions page for our 2013 Forum EPFL Workshop, "RESTful applications with Apache Sling and Adobe CRX". http://forum.epfl.ch/ has the forum information, and students should have
+received info about how to sign up.
 
 Our goal for this workshop is to meet students who might be interested in doing an internship at Adobe Basel, and/or in being hired there. Getting to know you and how you work is an important part of our selection process, so you maximize your chances of getting an interview with us by taking part in the workshop.
 
