@@ -13,13 +13,22 @@ The list below suggests a number of extensions and improvements that you could i
 
 # Instructions
 
+We expect you to come to the workshop ready with a basic setup where you have the Slingbucks sample running on a Sling instance
+and you understand how to make changes to the application.
+
+## Before the workshop
+
 1. Clone the [Apache Sling](https://sling.apache.org) project from its Github mirror at https://github.com/apache/sling
 2. Build the project with the Maven command line tool, following [build instructions](http://sling.apache.org/documentation/development/getting-and-building-sling.html)
 3. Start the Sling runnable jar
 4. Sling contains a sample called [Slingbucks](https://github.com/apache/sling/tree/trunk/samples/slingbucks), simple coffee-ordering app  
-   Install the sample following the README instructions and start playing with it
-5. Code your extension/improvement and deliver it from your own GitHub repository or similar public location.
-6. Submit a pull request for this page so that we can add the URL of your work below under "participant's repositories".
+   Install the sample following the README instructions and start playing with it.
+   
+## At the workshop
+
+5. Discuss your plans with us, what you'd like to implement and how.   
+6. Code your extension/improvement and deliver it from your own GitHub repository or similar public location.
+7. Submit a pull request for this page so that we can add the URL of your work below under "participant's repositories".
 
 # Potential workshop activities
 
