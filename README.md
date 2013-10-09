@@ -23,6 +23,8 @@ and you understand how to make changes to the application.
 3. Start the Sling runnable jar
 4. Sling contains a sample called [Slingbucks](https://github.com/apache/sling/tree/trunk/samples/slingbucks), simple coffee-ordering app  
    Install the sample following the README instructions and start playing with it.
+
+If you have questions about this, feel free to ask on the Sling users mailing list, see http://sling.apache.org/project-information.html#mailing-lists
    
 ## At the workshop
 
