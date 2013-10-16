@@ -67,4 +67,7 @@ The application invalidates the voucher when it's used.
   Hard-to-guess readable IDs can be generate by combining common words in unusual ways, like for instance PINKRABBIT13, FERRARIF40, etc.
 
 ## Participant's repositories
-We'll list the GitHub or other URLs of the participant's work here.
+
+* [Nicolas Voirol](https://github.com/samarion/sling)
+* [Kim Miji](https://github.com/itrustyou777/sling)
+* [Thang Chi Duong](https://github.com/vic4ever/sling)
