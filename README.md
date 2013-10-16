@@ -71,3 +71,5 @@ The application invalidates the voucher when it's used.
 * [Nicolas Voirol](https://github.com/samarion/sling)
 * [Kim Miji](https://github.com/itrustyou777/sling)
 * [Thang Chi Duong](https://github.com/vic4ever/sling)
+* [The Anh Nguyen](https://github.com/ntas1310/sling.git)
+* [Aniruddha Loya](https://github.com/aniruddha-loya/sling)
